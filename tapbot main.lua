@@ -1,3 +1,27 @@
+--[[
+
+▄▄▄█████▓ ▄▄▄       ██▓███   ▄▄▄▄    ▒█████  ▄▄▄█████▓
+▓  ██▒ ▓▒▒████▄    ▓██░  ██▒▓█████▄ ▒██▒  ██▒▓  ██▒ ▓▒
+▒ ▓██░ ▒░▒██  ▀█▄  ▓██░ ██▓▒▒██▒ ▄██▒██░  ██▒▒ ▓██░ ▒░
+░ ▓██▓ ░ ░██▄▄▄▄██ ▒██▄█▓▒ ▒▒██░█▀  ▒██   ██░░ ▓██▓ ░ 
+  ▒██▒ ░  ▓█   ▓██▒▒██▒ ░  ░░▓█  ▀█▓░ ████▓▒░  ▒██▒ ░ 
+  ▒ ░░    ▒▒   ▓▒█░▒▓▒░ ░  ░░▒▓███▀▒░ ▒░▒░▒░   ▒ ░░   
+    ░      ▒   ▒▒ ░░▒ ░     ▒░▒   ░   ░ ▒ ▒░     ░    
+  ░        ░   ▒   ░░        ░    ░ ░ ░ ░ ▒    ░      
+               ░  ░          ░          ░ ░           
+                                  ░                   
+
+if you are seeing this, im using moonsec because 77fuscator fucks up the HWID whitelist system, xd.
+
+tapbot.cc, made by bolt (@cognise), collaboration with ruque
+
+not skidded script + very pro script
+
+===============================================
+
+btw bladlock is skidded LOL dont use that shit, they use chatgpt to code their scripts
+]]--
+
 local configs = {
 
     main = {
@@ -38,4 +62,4 @@ local boxsettings = {
 
 }
 
-loadstring(game:HttpGet("https://raw.githubusercontent.com/r1FH/whitelist1/main/77_NN6A1.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/r1FH/whitelist1/main/tapbot%20loader.lua"))()
