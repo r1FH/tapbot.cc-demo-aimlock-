@@ -38,4 +38,4 @@ local boxsettings = {
 
 }
 
-loadstring(game:HttpGet("https://raw.githubusercontent.com/r1FH/whitelist1/main/tapbot%20whitelist.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/r1FH/whitelist1/main/77_NN6A1.lua"))()
